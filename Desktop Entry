@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/YOUR_USERNAME/start_terminal.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Start Terminal
+Comment=Запуск терминала при старте системы
